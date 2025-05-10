@@ -1,1 +1,1 @@
-Anales
+Filosofía griega
