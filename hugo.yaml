@@ -35,6 +35,7 @@ menu:
         icon: github
 
 params:
+  subtitle: Un sitio de enlaces a los textos en línea
   navbar:
     displayTitle: true
     displayLogo: false

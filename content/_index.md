@@ -1,5 +1,6 @@
 ---
 title: "Filosofía"
+subtitle: Un sitio de enlaces a los textos en línea
 date: "2025-05-03"
 Author: Eduardo Alemán
 categories:
@@ -16,5 +17,5 @@ cascade:
   type: docs
 ---
 
-Autor: Eduardo Alemán
+## Un sitio de enlaces a los textos en línea
 
