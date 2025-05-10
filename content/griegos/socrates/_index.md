@@ -15,13 +15,14 @@ description: ""
 draft: false
 ---
 
-# Bibliografía exhaustiva de recursos en línea sobre Sócrates y sus contemporáneos
+## Bibliografía exhaustiva de recursos en línea sobre Sócrates y sus contemporáneos
 
 A continuación, presento una bibliografía exhaustiva y actualizada de recursos en línea que contienen obras completas o fragmentos significativos sobre Sócrates, recopiladas de sus contemporáneos. Los enlaces han sido verificados para asegurar su accesibilidad y calidad. Los textos están disponibles en español e inglés.
 
-## Obras completas y fragmentos de los contemporáneos de Sócrates
+### Obras completas y fragmentos de los contemporáneos de Sócrates
 
-### 1. **Plato – Apología de Sócrates**
+1. **Plato – Apología de Sócrates**
+
 La *Apología* es el relato más detallado del juicio y defensa de Sócrates.
 
 - **Versión en inglés**:
@@ -31,7 +32,8 @@ La *Apología* es el relato más detallado del juicio y defensa de Sócrates.
 - **Versión en español**:
   - [Universidad de Hawái – Traducción al español](https://www2.hawaii.edu/~freeman/courses/phil100/04.%20Apology.pdf)
 
-### 2. **Xenofonte – Memorabilia (Recuerdos de Sócrates)**
+2. **Xenofonte – Memorabilia (Recuerdos de Sócrates)**
+
 Colección de diálogos socráticos que presenta a Sócrates como un modelo de virtud y sabiduría.
 
 - **Versión en inglés**:
@@ -41,7 +43,8 @@ Colección de diálogos socráticos que presenta a Sócrates como un modelo de v
 - **Versión en español**:
   - [ToposText – Memorabilia](https://topostext.org/work/249)
 
-### 3. **Aristófanes – Las Nubes**
+3. **Aristófanes – Las Nubes**
+
 Comedia que satiriza las enseñanzas filosóficas de Sócrates, mostrando su influencia en la cultura ateniense.
 
 - **Versión en inglés**:
@@ -51,7 +54,7 @@ Comedia que satiriza las enseñanzas filosóficas de Sócrates, mostrando su inf
 - **Versión en español**:
   - [Faenum Publishing – Edición bilingüe](https://www.faenumpublishing.com/uploads/2/3/9/8/23987979/aristophanes_clouds_a_dual_language_edition_-_johnston.pdf)
 
-## Recursos adicionales y colecciones
+### Recursos adicionales y colecciones
 
 - **Plato – Obras completas**:
   - [HolyBooks.com – Obras completas de Platón en PDF](https://www.holybooks.com/wp-content/uploads/plato-complete-works.pdf)
@@ -62,7 +65,7 @@ Comedia que satiriza las enseñanzas filosóficas de Sócrates, mostrando su inf
 - **Aristófanes – Obras completas**:
   - [Poetry In Translation – Las Nubes](https://www.poetryintranslation.com/PITBR/Greek/Clouds.php)
 
-## Contexto y estudios adicionales
+### Contexto y estudios adicionales
 
 - **Enciclopedia Stanford de Filosofía**:
   - [Socrates – Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/socrates/)
