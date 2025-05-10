@@ -1,1 +1,1 @@
-Filosofía griega
+Filosofía
