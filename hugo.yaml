@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Tácito
+title: Filosofía griega
 
 # import hextra as module
 module:
@@ -30,7 +30,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/lampsacus/peloponeso"
+      url: "https://github.com/lampsacus/filosofia"
       params:
         icon: github
 
@@ -45,7 +45,7 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/lampsacus/anales/edit/main/content"
+    base: "https://github.com/lampsacus/filosofia/edit/main/content"
 
 defaultContentLanguage: es
 languages:
