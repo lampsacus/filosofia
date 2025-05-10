@@ -16,6 +16,5 @@ toc: true
 cascade:
   type: docs
 ---
-
-## Un sitio de enlaces a los textos en línea
+Un sitio de enlaces a los textos disponibles en línea
 
