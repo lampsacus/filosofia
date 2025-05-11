@@ -152,7 +152,5 @@ Este documento presenta una bibliografía exhaustiva de recursos digitales que o
 
 ---
 
-Para sugerencias o correcciones, puedes escribir a [aleman@ealeman.com](mailto:aleman@ealeman.com).
-
 
 
