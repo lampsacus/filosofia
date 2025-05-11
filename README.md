@@ -1,1 +1,1 @@
-Filosofía
+Este sitio reúne una bibliografía crítica y accesible de la tradición filosófica occidental, con enlaces verificados a textos canónicos disponibles íntegramente en línea. Su propósito es facilitar el estudio riguroso y comparado de las obras fundamentales de la filosofía, tanto en traducciones al español e inglés como en sus lenguas originales —principalmente griego, latín, alemán y francés.
