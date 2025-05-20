@@ -18,7 +18,7 @@ draft: false
 
 ## Bibliografía en línea de los presocráticos
 
-A continuación se presenta una bibliografía exhaustiva y actualizada de recursos en línea que contienen obras completas o fragmentos significativos de los filósofos presocráticos, tanto en español como en inglés. Todos los enlaces han sido verificados para asegurar su accesibilidad y calidad.
+A continuación se presenta una bibliografía de recursos en línea que contienen obras completas o fragmentos significativos de los filósofos presocráticos, tanto en español como en inglés. Todos los enlaces han sido verificados para asegurar su accesibilidad y calidad.
 
 ### Obras en español
 

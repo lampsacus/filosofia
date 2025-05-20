@@ -19,7 +19,7 @@ draft: false
 
 ## Introducción
 
-Este documento presenta una bibliografía exhaustiva de recursos digitales que ofrecen acceso completo y confiable a las obras de **Aristóteles** y su legado. Además de los textos originales y sus traducciones, se incluye una sección cronológica sobre la **tradición peripatética**, desde el Liceo hasta la recepción del aristotelismo en Bizancio, el islam y Occidente latino.
+Este documento presenta una bibliografía de recursos digitales que ofrecen acceso completo y confiable a las obras de **Aristóteles** y su legado. Además de los textos originales y sus traducciones, se incluye una sección cronológica sobre la **tradición peripatética**, desde el Liceo hasta la recepción del aristotelismo en Bizancio, el islam y Occidente latino.
 
 ---
 
