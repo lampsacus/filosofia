@@ -12,13 +12,13 @@ type: docs
 sidebar:
   open: true
 weight: 2
-description: "Recopilación exhaustiva de recursos digitales sobre Platón, Sócrates, sus contemporáneos y la tradición académica y neoplatónica posterior, organizada cronológicamente."
+description: "Recopilación de recursos digitales sobre Platón, Sócrates, sus contemporáneos y la tradición académica y neoplatónica posterior, organizada cronológicamente."
 draft: false
 ---
 
 ## Introducción
 
-Este documento reúne recursos fidedignos y de libre acceso que abarcan desde los **diálogos de Platón** y testimonios sobre **Sócrates**, hasta el desarrollo de la **Academia platónica** y su prolongación en el **neoplatonismo tardoantiguo y medieval**. Se distinguen las fuentes por idioma (español, inglés, griego original) y se incluye una sección cronológica sobre las escuelas platónicas.
+Este documento reúne recursos de libre acceso que abarcan desde los **diálogos de Platón** y testimonios sobre **Sócrates**, hasta el desarrollo de la **Academia platónica** y su prolongación en el **neoplatonismo tardoantiguo y medieval**. Se distinguen las fuentes por idioma (español, inglés, griego original) y se incluye una sección cronológica sobre las escuelas platónicas.
 
 ---
 

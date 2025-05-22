@@ -12,7 +12,7 @@ type: docs
 sidebar:
   open: true
 weight: 1
-description: "Este documento proporciona una base sólida para la consulta, el estudio comparativo y la enseñanza de los pensadores presocráticos desde fuentes serias y accesibles."
+description: "Este documento proporciona una base para la consulta, el estudio comparativo y la enseñanza de los pensadores presocráticos desde fuentes serias y accesibles."
 draft: false
 ---
 

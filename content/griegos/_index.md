@@ -11,7 +11,7 @@ type: docs
 sidebar:
   open: true
 weight: 2
-description: "Una introducción clara y estructurada a las principales corrientes y figuras de la filosofía griega antigua, desde los presocráticos hasta las escuelas helenísticas."
+description: "Una introducción a las principales corrientes y figuras de la filosofía griega antigua, desde los presocráticos hasta las escuelas helenísticas."
 draft: false
 ---
 

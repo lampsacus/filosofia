@@ -15,7 +15,7 @@ description: ""
 draft: false
 ---
 
-## Bibliografía exhaustiva de recursos en línea sobre Sócrates y sus contemporáneos
+## Bibliografía de recursos en línea sobre Sócrates y sus contemporáneos
 
 A continuación, presento una bibliografía de recursos en línea que contienen obras completas o fragmentos significativos sobre Sócrates, recopiladas de sus contemporáneos. Los enlaces han sido verificados para asegurar su accesibilidad y calidad. Los textos están disponibles en español e inglés.
 

@@ -19,7 +19,7 @@ cascade:
 
 ## Introducción
 
-Este sitio reúne una bibliografía crítica y accesible de la tradición filosófica occidental, con enlaces verificados a textos canónicos disponibles íntegramente en línea. Su propósito es facilitar el estudio riguroso y comparado de las obras fundamentales de la filosofía, tanto en traducciones al español e inglés como en sus lenguas originales —principalmente griego, latín, alemán y francés.
+Este sitio reúne una bibliografía accesible de la tradición filosófica occidental, con enlaces verificados a textos canónicos disponibles íntegramente en línea. Su propósito es facilitar el estudio de las obras fundamentales de la filosofía, tanto en traducciones al español e inglés como en sus lenguas originales —principalmente griego, latín, alemán y francés.
 
 La selección incluye autores y corrientes que han dado forma al pensamiento occidental, desde los presocráticos hasta la filosofía contemporánea. Cada entrada remite a fuentes completas, preferentemente ediciones académicas, con énfasis en la fidelidad textual y la accesibilidad digital.
 
