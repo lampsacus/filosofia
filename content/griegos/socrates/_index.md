@@ -12,7 +12,7 @@ sidebar:
   open: true
 weight: 1
 description: ""
-draft: false
+draft: true
 ---
 
 ## Bibliografía de recursos en línea sobre Sócrates y sus contemporáneos

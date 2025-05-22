@@ -14,7 +14,7 @@ sidebar:
   open: true
 weight: 3
 description: "Bibliografía digital estructurada sobre Aristóteles, su corpus filosófico y su recepción en la Antigüedad tardía, el mundo islámico y el cristianismo medieval."
-draft: false
+draft: true
 ---
 
 ## Introducción

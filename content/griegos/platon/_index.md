@@ -14,7 +14,7 @@ sidebar:
   open: true
 weight: 2
 description: "Recopilación de recursos digitales sobre Platón, Sócrates, sus contemporáneos y la tradición académica y neoplatónica posterior, organizada cronológicamente."
-draft: false
+draft: true
 ---
 
 ## Introducción
