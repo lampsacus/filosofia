@@ -29,9 +29,6 @@ La *Apología* es el relato más detallado del juicio y defensa de Sócrates.
   - [Project Gutenberg – Apology by Plato](https://www.gutenberg.org/ebooks/1656)
   - [MIT Internet Classics Archive – Apology](https://classics.mit.edu/Plato/apology.html)
 
-- **Versión en español**:
-  - [Universidad de Hawái – Traducción al español](https://www2.hawaii.edu/~freeman/courses/phil100/04.%20Apology.pdf)
-
 2. **Xenofonte – Memorabilia (Recuerdos de Sócrates)**
 
 Colección de diálogos socráticos que presenta a Sócrates como un modelo de virtud y sabiduría.
