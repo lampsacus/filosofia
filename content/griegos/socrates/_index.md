@@ -1,11 +1,11 @@
---- 
+---
 title: "Sócrates"
 date: "2025-05-08"
 categories:
-- filosofía
-- grecia
-- historia
-- sócrates
+  - filosofía
+  - grecia
+  - historia
+  - sócrates
 toc: true
 type: docs
 sidebar:
@@ -23,7 +23,7 @@ A continuación, presento una bibliografía de recursos en línea que contienen 
 
 1. **Plato – Apología de Sócrates**
 
-La *Apología* es el relato más detallado del juicio y defensa de Sócrates.
+La _Apología_ es el relato más detallado del juicio y defensa de Sócrates.
 
 - **Versión en inglés**:
   - [Project Gutenberg – Apology by Plato](https://www.gutenberg.org/ebooks/1656)
@@ -34,6 +34,7 @@ La *Apología* es el relato más detallado del juicio y defensa de Sócrates.
 Colección de diálogos socráticos que presenta a Sócrates como un modelo de virtud y sabiduría.
 
 - **Versión en inglés**:
+
   - [Project Gutenberg – The Memorabilia](https://www.gutenberg.org/ebooks/1177)
   - [Internet Archive – Memorabilia de Xenofonte](https://archive.org/details/xenophonsmemorab00xenouoft)
 
@@ -45,6 +46,7 @@ Colección de diálogos socráticos que presenta a Sócrates como un modelo de v
 Comedia que satiriza las enseñanzas filosóficas de Sócrates, mostrando su influencia en la cultura ateniense.
 
 - **Versión en inglés**:
+
   - [Project Gutenberg – The Clouds](https://www.gutenberg.org/ebooks/2562)
   - [MIT Internet Classics Archive – The Clouds](https://classics.mit.edu/Aristophanes/clouds.html)
 
@@ -54,9 +56,11 @@ Comedia que satiriza las enseñanzas filosóficas de Sócrates, mostrando su inf
 ### Recursos adicionales y colecciones
 
 - **Plato – Obras completas**:
+
   - [HolyBooks.com – Obras completas de Platón en PDF](https://www.holybooks.com/wp-content/uploads/plato-complete-works.pdf)
 
 - **Xenofonte – Obras completas**:
+
   - [Full Text Archive – The Memorabilia](https://www.fulltextarchive.com/book/The-Memorabilia/)
 
 - **Aristófanes – Obras completas**:
@@ -65,15 +69,12 @@ Comedia que satiriza las enseñanzas filosóficas de Sócrates, mostrando su inf
 ### Contexto y estudios adicionales
 
 - **Enciclopedia Stanford de Filosofía**:
+
   - [Socrates – Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/socrates/)
 
 - **Wikipedia – Problema socrático**:
+
   - [Socratic problem – Wikipedia](https://en.wikipedia.org/wiki/Socratic_problem)
 
 - **Wikipedia – Memorabilia de Xenofonte**:
   - [Memorabilia (Xenophon) – Wikipedia](https://en.wikipedia.org/wiki/Memorabilia_%28Xenophon%29)
-
-
-
-
-
