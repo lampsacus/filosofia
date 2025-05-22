@@ -7,6 +7,7 @@ categories:
   - historia
   - sócrates
   - platón
+  - neoplatonismos
 toc: true
 type: docs
 sidebar:
